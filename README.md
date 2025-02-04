@@ -1,3 +1,3 @@
 # Git-Practice
 
-My favorite snack is fritos
+My favorite snack is cashews
